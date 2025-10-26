@@ -12,3 +12,4 @@ Este es el repositorio de la materia de Aprendizaje Automático de la Maestria d
 - [Tarea 2. Elección de base de datos, carga de archivos y limpieza de los datos.](MachineLearningTarea2_CargarDeBaseDeDatos.ipynb) En esta tarea se selecciono la base de datos de Covid-19 publicada por la Direccion Epidemiologica de México. Se automatizo el proceso de descarga de  la base de datos para tener los registros mas recientes publicados.
 - [Tarea 3. Estadistica descriptiva.](MachineLearningTarea3_EstadisticaDescriptiva.ipynb) Se realizo un análisis estadistico a las variables del conjunto de datos. 
 - [Tarea 4. Selección de caracteristica](MachineLearningTarea4_SeleccionDeCaracteristicas.ipynb) Se estudiaron las caracteristicas de los datos.
+- [Tarea 5. Agrupamiento](MachineLearningTarea5_Agrupamiento.ipynb) Realizamos un agrupamiento utilizando DBSCAN mas la metrica de Gower y empezamos a realizar el articulo. 

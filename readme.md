@@ -14,3 +14,4 @@ Este es el repositorio de la materia de Aprendizaje Automático de la Maestria d
 - [Tarea 4. Selección de caracteristica](MachineLearningTarea4_SeleccionDeCaracteristicas.ipynb) Se estudiaron las caracteristicas de los datos.
 - [Tarea 5. Agrupamiento](MachineLearningTarea5_Agrupamiento.ipynb) Realizamos un agrupamiento utilizando DBSCAN mas la metrica de Gower y empezamos a realizar el articulo. 
 - [Tarea 6. Predicción](MachineLearningTarea6_AprendizajeAutomatico.ipynb) Se realizo una red neuronal para las variables antes de la hospitalización de los pacientes. La variable predictora sera si se diagnostica con Covid-19 o no. 
+- [Tarea 7. Metodología](Covid_19.pdf) Se mejoro la presentación del articulo cientifico, incluyendo la  metodología de los modelos y  algunos antecedentes.
